@@ -22,7 +22,7 @@ Ich bin **Mohamad Al Hade**, angehender Fachinformatiker für Anwendungsentwickl
 Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentieren und sauberen Code zu schreiben.
 
 🔭 **Aktuell:** Umschulung bei der CBW Hamburg (seit 07/2025)  
-🌱 **Lerne gerade:** Vertiefung React & Cloud (AWS) & PHP 
+🌱 **Lerne gerade:** Vertiefung React & Cloud (AWS) & PHP     
 👯 **Suche:** Open-Source-Projekte, bei denen ich mitwirken kann  
 ⚡ **Fun-Fakt:** Ich kann Kaffee trinken und gleichzeitig debuggen ☕🐞
 
