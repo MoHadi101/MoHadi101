@@ -1,17 +1,13 @@
-<!-- Dynamischer animierter Kopf - Jetzt mit korrekter Breite und sichtbarem Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi%2C+ich+bin+Mohamad!;Willkommen+auf+meinem+GitHub;Code.+Create.+Innovate." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=500&color=2ECC71&center=true&vCenter=true&width=800&lines=Hi%2C+ich+bin+Mohamad!;Willkommen+auf+meinem+GitHub;Code.+Create.+Innovate." alt="Typing SVG">
 </h1>
 
 <h3 align="center">
-  ⚡ Fachinformatiker für Anwendungsentwicklung | Web-Dev-Enthusiast | Tech-Lover ⚡
+  ⚡ Fachinformatiker Anwendungsentwicklung i. A. | Frontend & Backend | Datenbanken ⚡
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoHadi101&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/MoHadi101?tab=followers">
-    <img src="https://img.shields.io/github/followers/MoHadi101?label=Followers&style=social" alt="GitHub followers">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MoHadi101&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -22,7 +18,7 @@ Ich bin **Mohamad Al Hade**, angehender Fachinformatiker für Anwendungsentwickl
 Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentieren und sauberen Code zu schreiben.
 
  =>**Aktuell:** Umschulung bei der CBW Hamburg (seit 07/2025)  
- =>**Lerne gerade:** Vertiefung React & Cloud (AWS) & PHP     
+ =>**Lerne gerade:** Vertiefung React & Cloud (AWS) & PHP      
  =>**Suche:** Open-Source-Projekte, bei denen ich mitwirken kann  
  =>**Fun-Fakt:** Ich kann Kaffee trinken und gleichzeitig debuggen 
 
@@ -50,32 +46,26 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<p align="center">
-  <i>...und: Scrum, UML, OOP, KI-Grundlagen</i>
-</p>
-
 ---
 
 ## 📂 Meine Projekte im Überblick
 
-Hier sind alle meine öffentlichen Projekte, sortiert nach dem letzten Update:
-
 | Projekt | Beschreibung | Hauptsprache | Live-Demo |
 | :--- | :--- | :--- | :--- |
-| **[ToDo_List_App_LocalDataBase](https://github.com/MoHadi101/ToDo_List_App_LocalDataBase)** | Eine ToDo-List-App mit lokaler Datenbank (localStorage) – Aufgaben hinzufügen, löschen, erledigen. | JavaScript | [Zur Demo](https://todo-list-app-demo.netlify.app/) |
-| **[Corporate-Demo-Website](https://github.com/MoHadi101/Corporate-Demo-Website)** | Ein modernes, professionelles Webdesign-Template für Unternehmen. | JavaScript | [Zur Demo](https://corporate-demo-website.netlify.app/) |
-| **[Currency_Converter](https://github.com/MoHadi101/Currency_Converter)** | Ein einfacher Währungsumrechner für verschiedene Währungen. | JavaScript | [Zur Demo](https://waehrungsumrechner-app.netlify.app/) |
-| **[Dark-Mode-Toggle](https://github.com/MoHadi101/Dark-Mode-Toggle)** | Eine einfache Funktion zum Umschalten zwischen Hell- und Dunkelmodus. | JavaScript | [Zur Demo](https://dark-modetoggle.netlify.app/) |
-| **[Digital_Clock](https://github.com/MoHadi101/Digital_Clock)** | Eine ansprechende digitale Uhr, die die aktuelle Zeit anzeigt. | JavaScript | [Zur Demo](https://digital-clock-image.netlify.app/) |
-| **[Encrypting](https://github.com/MoHadi101/Encrypting)** | Ein Projekt, das sich mit grundlegenden Verschlüsselungstechniken beschäftigt. | (Python) | - |
-| **[Quiz-spiel](https://github.com/MoHadi101/Quiz-spiel)** | Ein Quiz-Spiel, das Wissen auf unterhaltsame Weise testet. | HTML | [Zur Demo](https://mohadi101.github.io/Quiz-spiel/) |
+| **[ToDo_List_App_LocalDataBase](https://github.com/MoHadi101/ToDo_List_App_LocalDataBase)** | Eine ToDo-List-App mit lokaler Datenbank (localStorage). | JavaScript | [Zur Demo](https://todo-list-app-demo.netlify.app/) |
+| **[Corporate-Demo-Website](https://github.com/MoHadi101/Corporate-Demo-Website)** | Ein modernes Webdesign-Template für Unternehmen. | JavaScript | [Zur Demo](https://corporate-demo-website.netlify.app/) |
+| **[Currency_Converter](https://github.com/MoHadi101/Currency_Converter)** | Ein einfacher Währungsumrechner. | JavaScript | [Zur Demo](https://waehrungsumrechner-app.netlify.app/) |
+| **[Dark-Mode-Toggle](https://github.com/MoHadi101/Dark-Mode-Toggle)** | Umschalten zwischen Hell- und Dunkelmodus. | JavaScript | [Zur Demo](https://dark-modetoggle.netlify.app/) |
+| **[Digital_Clock](https://github.com/MoHadi101/Digital_Clock)** | Eine digitale Uhr mit Echtzeitanzeige. | JavaScript | [Zur Demo](https://digital-clock-image.netlify.app/) |
+| **[Encrypting](https://github.com/MoHadi101/Encrypting)** | Grundlegende Verschlüsselungstechniken. | Python | - |
+| **[Quiz-spiel](https://github.com/MoHadi101/Quiz-spiel)** | Ein interaktives Quiz-Spiel. | HTML | [Zur Demo](https://mohadi101.github.io/Quiz-spiel/) |
 | **[SQL-My-SQL](https://github.com/MoHadi101/SQL-My-SQL)** | Grundlagen der Webentwicklung mit MySQL. | PLpgSQL | - |
-| **[Rock_Paper_Scissors_Demo](https://github.com/MoHadi101/Rock_Paper_Scissors_Demo)** | Eine Demo des klassischen Spiels "Schere, Stein, Papier". | JavaScript | [Zur Demo](https://rock-paper-scissors-demo-html-js.netlify.app/) |
-| **[Heart-trail-animation](https://github.com/MoHadi101/Heart-trail-animation)** | Eine Animation mit einer Spur von Herzen. | JavaScript | [Zur Demo](https://heart-trail-animation-demo.netlify.app/) |
-| **[Rotating_image_gallery](https://github.com/MoHadi101/Rotating_image_gallery)** | Eine Bildergalerie mit rotierenden Bildern. | JavaScript | [Zur Demo](https://rotating-image-gallery-demo.netlify.app/) |
-| **[Calculator with Js](https://github.com/MoHadi101/Calculator-with-Js)** | Ein einfacher Taschenrechner, erstellt mit JavaScript. | JavaScript | [Zur Demo](https://calculator-using-js-demo.netlify.app/) |
-| **[MovieSearchPage / MovieYard](https://github.com/MoHadi101/MovieSearchPage)** | Eine Seite zum Suchen nach Filminformationen (identisch mit MovieYard). | JavaScript | [Zur Demo](https://movieyard-demo.netlify.app) |
-| **[the weather app is now online](https://github.com/MoHadi101/the-weather-app-is-now-online)** | Eine Web-App, die aktuelle Wetterdaten anzeigt. | JavaScript | [Zur Demo](https://das-wetter-app.netlify.app/) |
+| **[Rock_Paper_Scissors_Demo](https://github.com/MoHadi101/Rock_Paper_Scissors_Demo)** | Klassisches "Schere, Stein, Papier". | JavaScript | [Zur Demo](https://rock-paper-scissors-demo-html-js.netlify.app/) |
+| **[Heart-trail-animation](https://github.com/MoHadi101/Heart-trail-animation)** | Animation mit einer Spur von Herzen. | JavaScript | [Zur Demo](https://heart-trail-animation-demo.netlify.app/) |
+| **[Rotating_image_gallery](https://github.com/MoHadi101/Rotating_image_gallery)** | Bildergalerie mit rotierenden Bildern. | JavaScript | [Zur Demo](https://rotating-image-gallery-demo.netlify.app/) |
+| **[Calculator with Js](https://github.com/MoHadi101/Calculator-with-Js)** | Ein Taschenrechner erstellt mit JavaScript. | JavaScript | [Zur Demo](https://calculator-using-js-demo.netlify.app/) |
+| **[MovieSearchPage / MovieYard](https://github.com/MoHadi101/MovieSearchPage)** | Suche nach Filminformationen. | JavaScript | [Zur Demo](https://movieyard-demo.netlify.app) |
+| **[the weather app is now online](https://github.com/MoHadi101/the-weather-app-is-now-online)** | Web-App für aktuelle Wetterdaten. | JavaScript | [Zur Demo](https://das-wetter-app.netlify.app/) |
 
 ---
 
