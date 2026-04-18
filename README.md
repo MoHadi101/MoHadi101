@@ -62,12 +62,12 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 | **[Encrypting](https://github.com/MoHadi101/Encrypting)** | Grundlegende Verschlüsselungstechniken. | Python | - |
 | **[Quiz-spiel](https://github.com/MoHadi101/Quiz-spiel)** | Ein interaktives Quiz-Spiel. | HTML | [Zur Demo](https://mohadi101.github.io/Quiz-spiel/) |
 | **[SQL-My-SQL](https://github.com/MoHadi101/SQL-My-SQL)** | Grundlagen der Webentwicklung mit MySQL. | PLpgSQL | - |
-| **[Rock_Paper_Scissors_Demo](https://github.com/MoHadi101/Rock_Paper_Scissors_Demo)** | Klassisches "Schere, Stein, Papier". | JavaScript | [Zur Demo](https://rock-paper-scissors-demo-html-js.netlify.app/) |
+| **[Rock_Paper_Scissors_Demo](https://github.com/MoHadi101/Rock_Paper_Scissors_Demo_using_html_Js)** | Klassisches "Schere, Stein, Papier". | JavaScript | [Zur Demo](https://rock-paper-scissors-demo-html-js.netlify.app/) |
 | **[Heart-trail-animation](https://github.com/MoHadi101/Heart-trail-animation)** | Animation mit einer Spur von Herzen. | JavaScript | [Zur Demo](https://heart-trail-animation-demo.netlify.app/) |
 | **[Rotating_image_gallery](https://github.com/MoHadi101/Rotating_image_gallery)** | Bildergalerie mit rotierenden Bildern. | JavaScript | [Zur Demo](https://rotating-image-gallery-demo.netlify.app/) |
-| **[Calculator with Js](https://github.com/MoHadi101/Calculator-with-Js)** | Ein Taschenrechner erstellt mit JavaScript. | JavaScript | [Zur Demo](https://calculator-using-js-demo.netlify.app/) |
+| **[Calculator with Js](https://github.com/MoHadi101/Tachenrechner_html_css_js)** | Ein Taschenrechner erstellt mit JavaScript. | JavaScript | [Zur Demo](https://calculator-using-js-demo.netlify.app/) |
 | **[MovieSearchPage / MovieYard](https://github.com/MoHadi101/MovieSearchPage)** | Suche nach Filminformationen. | JavaScript | [Zur Demo](https://movieyard-demo.netlify.app) |
-| **[the weather app is now online](https://github.com/MoHadi101/the-weather-app-is-now-online)** | Web-App für aktuelle Wetterdaten. | JavaScript | [Zur Demo](https://das-wetter-app.netlify.app/) |
+| **[the weather app is now online](https://github.com/MoHadi101/Weather_App)** | Web-App für aktuelle Wetterdaten. | JavaScript | [Zur Demo](https://das-wetter-app.netlify.app/) |
 | **[Full Stack PERN-Stack-Gemini-API-SaaS-Project](https://github.com/MoHadi101/PERN-Stack-Gemini-API-SaaS-Project)**| PERN Stack (React, Node.js, PostgreSQL, Gemini API, Clerk, Sentry) | PERN Stack | [Zur Demo](https://ugc-ai.netlify.app/) |
 
 
