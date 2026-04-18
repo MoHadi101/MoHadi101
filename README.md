@@ -68,7 +68,7 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 | **[Calculator with Js](https://github.com/MoHadi101/Calculator-with-Js)** | Ein Taschenrechner erstellt mit JavaScript. | JavaScript | [Zur Demo](https://calculator-using-js-demo.netlify.app/) |
 | **[MovieSearchPage / MovieYard](https://github.com/MoHadi101/MovieSearchPage)** | Suche nach Filminformationen. | JavaScript | [Zur Demo](https://movieyard-demo.netlify.app) |
 | **[the weather app is now online](https://github.com/MoHadi101/the-weather-app-is-now-online)** | Web-App für aktuelle Wetterdaten. | JavaScript | [Zur Demo](https://das-wetter-app.netlify.app/) |
-| **[Full Stack PERN-Stack-Gemini-API-SaaS-Project](https://github.com/MoHadi101/PERN-Stack-Gemini-API-SaaS-Project)**| PERN Stack (React, Node.js, PostgreSQL, Gemini API, Clerk, Sentry) | [Zur Demo](https://ugc-ai.netlify.app/) |
+| **[Full Stack PERN-Stack-Gemini-API-SaaS-Project](https://github.com/MoHadi101/PERN-Stack-Gemini-API-SaaS-Project)**| PERN Stack (React, Node.js, PostgreSQL, Gemini API, Clerk, Sentry) | PERN Stack | [Zur Demo](https://ugc-ai.netlify.app/) |
 
 
 
