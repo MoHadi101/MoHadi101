@@ -69,6 +69,7 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 | **[MovieSearchPage / MovieYard](https://github.com/MoHadi101/MovieSearchPage)** | Suche nach Filminformationen. | JavaScript | [Zur Demo](https://movieyard-demo.netlify.app) |
 | **[the weather app is now online](https://github.com/MoHadi101/Weather_App)** | Web-App für aktuelle Wetterdaten. | JavaScript | [Zur Demo](https://das-wetter-app.netlify.app/) |
 | **[Kreditrechner & Zinsen](https://github.com/MoHadi101/Kreditrechner_using_PHP)** | Web-Site für Kredit und Zinsen rechnen. | PHP | [Zur Demo](http://mohamadalhade.bplaced.net/htdocs/rechenaufgabe.php?kredit=5000&zinssatz=4&laufzeit=5) |
+| **[Datenverwaltung mit Serialisierung](https://github.com/MoHadi101/Daten-Verwaltung-mit-PHP-Tabellen-Serialisierung/tree/main)** | Eine einfache CRUD-Anwendung. | PHP | [Zur Demo](http://mohamadalhade.bplaced.net/htdocs/18_serialize/serialize1.php) |
 | **[Full Stack PERN-Stack-Gemini-API-SaaS-Project](https://github.com/MoHadi101/PERN-Stack-Gemini-API-SaaS-Project)**| PERN Stack (React, Node.js, PostgreSQL, Gemini API, Clerk, Sentry) | PERN Stack | [Zur Demo](https://ugc-ai.netlify.app/) |
 
 
