@@ -108,11 +108,4 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=300&color=2ECC71&center=true&vCenter=true&width=800&lines=Offen+für+spannende+Projekte;Let's+code+something+awesome!;Kontaktiere+mich+einfach" alt="Footer Typing">
 </p>
-<script>
-    // Alle Links mit "http" in der Live-Demo Spalte öffnen in neuem Tab
-    document.querySelectorAll('table a').forEach(link => {
-        if(link.href.startsWith('http')) {
-            link.target = '_blank';
-        }
-    });
-</script>
+
