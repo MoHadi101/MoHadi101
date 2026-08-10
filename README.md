@@ -80,13 +80,13 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 ## 📊 GitHub-Statistiken (live)
 
 <div align="center">
-  <!-- 1. Normale Stats (Alternative 1) -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MoHadi101&show_icons=true&theme=radical&hide_border=true" />
+  <!-- 1. Normale Stats (jetzt mit stabiler Standard-URL) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoHadi101&show_icons=true&theme=radical&hide_border=true" />
   
-  <!-- 2. Top-Sprachen (Alternative 1) -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoHadi101&layout=compact&theme=radical&hide_border=true" />
+  <!-- 2. Top-Sprachen (jetzt mit stabiler Standard-URL) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoHadi101&layout=compact&theme=radical&hide_border=true" />
 
-  <!-- 3. Streak Stats (anderer, sehr stabiler Dienst) -->
+  <!-- 3. Streak Stats (unverändert, funktioniert zuverlässig) -->
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MoHadi101&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
@@ -113,4 +113,3 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=300&color=2ECC71&center=true&vCenter=true&width=800&lines=Offen+für+spannende+Projekte;Let's+code+something+awesome!;Kontaktiere+mich+einfach" alt="Footer Typing">
 </p>
-
