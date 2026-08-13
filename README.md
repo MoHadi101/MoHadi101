@@ -77,9 +77,9 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 
 ---
 
-## 📊 GitHub-Statistiken (live)
+ <!--## 📊 GitHub-Statistiken (live)-->
 
-<div align="center">
+ <!-- <div align="center">-->
   <!-- 1. Normale Stats (Alternative 1) -->
  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoHadi101&show_icons=true&theme=radical&hide_border=true" /> -->
   
@@ -87,10 +87,10 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoHadi101&layout=compact&theme=radical&hide_border=true" /> -->
 
   <!-- 3. Streak Stats (anderer, sehr stabiler Dienst) -->
- <p align="center">
+ <!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MoHadi101&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-</div>
+</div>-->
 
 ---
 
