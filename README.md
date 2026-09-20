@@ -54,7 +54,7 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 
 | Projekt | Beschreibung | Hauptsprache | Live-Demo |
 | :--- | :--- | :--- | :--- |
-| **[Invoice-Generator](https://github.com/MoHadi101/Invoice-Generator)** | 🧾 Invoice Generator – Eine einfache und moderne Anwendung zum schnellen Erstellen und Verwalten von Rechnungen.| Python | [⬇️ Download für Windows.msi-Datei](https://github.com/MoHadi101/Invoice-Generator/releases/download/v1.0.0/InvoiceGenerator-1.0-win64.msi) |
+| **[🧾 Invoice-Generator](https://github.com/MoHadi101/Invoice-Generator)** | 🧾 Invoice Generator – Eine einfache und moderne Anwendung zum schnellen Erstellen und Verwalten von Rechnungen.| Python | [⬇️ Download für Windows.msi-Datei](https://github.com/MoHadi101/Invoice-Generator/releases/download/v1.0.0/InvoiceGenerator-1.0-win64.msi) |
 | **[🛒 OnlineRetailBillingSystem](https://github.com/MoHadi101/Billing-Project)** |🛒 OnlineRetailBillingSystem – Eine Windows-Anwendung zur einfachen und effizienten Erstellung und Verwaltung von Rechnungen.| Python | [⬇️ Download für Windows.msi-Datei](https://github.com/MoHadi101/Billing-Project/releases/download/v1.0.0/OnlineRetailBillingSystem-1.0-win64.msi) |
 | **[Sprachtutor_Dialogpartner](https://github.com/MoHadi101/ai-language-tutor)** | ein KI-gestützter Sprachtutor, der durch natürliche Konversation das Sprachenlernen demokratisiert. | TypeScript, Next.js , Groq API| [Zur Demo](https://lingua-ai-lern.netlify.app/) |
 | **[ToDo_List_App_LocalDataBase](https://github.com/MoHadi101/ToDo_List_App_LocalDataBase)** | Eine ToDo-List-App mit lokaler Datenbank (localStorage). | JavaScript | [Zur Demo](https://todo-list-app-demo.netlify.app/) |
