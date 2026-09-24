@@ -33,6 +33,7 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -54,6 +55,7 @@ Ich liebe es, moderne Web-Apps zu bauen, mit neuen Technologien zu experimentier
 
 | Projekt | Beschreibung | Hauptsprache | Live-Demo |
 | :--- | :--- | :--- | :--- |
+| **[📱 QR Master](https://github.com/MoHadi101/QR_Code_Master)** | 📱 QR Master – Eine moderne App zum Scannen, Erstellen und Verwalten von QR-Codes auf Android. | Flutter | [⬇️ Download für Android.apk-Datei](https://github.com/MoHadi101/QR_Code_Master/releases/download/v1.0.0/app-release.apk) |
 | **[🧾 Invoice-Generator](https://github.com/MoHadi101/Invoice-Generator)** | 🧾 Invoice Generator – Eine einfache und moderne Anwendung zum schnellen Erstellen und Verwalten von Rechnungen.| Python | [⬇️ Download für Windows.msi-Datei](https://github.com/MoHadi101/Invoice-Generator/releases/download/v1.0.0/InvoiceGenerator-1.0-win64.msi) |
 | **[🛒 OnlineRetailBillingSystem](https://github.com/MoHadi101/Billing-Project)** |🛒 OnlineRetailBillingSystem – Eine Windows-Anwendung zur einfachen und effizienten Erstellung und Verwaltung von Rechnungen.| Python | [⬇️ Download für Windows.msi-Datei](https://github.com/MoHadi101/Billing-Project/releases/download/v1.0.0/OnlineRetailBillingSystem-1.0-win64.msi) |
 | **[Sprachtutor_Dialogpartner](https://github.com/MoHadi101/ai-language-tutor)** | ein KI-gestützter Sprachtutor, der durch natürliche Konversation das Sprachenlernen demokratisiert. | TypeScript, Next.js , Groq API| [Zur Demo](https://lingua-ai-lern.netlify.app/) |
